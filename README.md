@@ -1,13 +1,20 @@
-### Hi, Welcome to Abandon Field
+# Hi, Welcome to Abandon Field
+ 👨‍🎓I'm a student at UIT ( university of information technology ) - VNUHCM 
+ 
+ 💻My major is Information Security 
+ 
+ 🔭I'm good at RE (reverse engineering) and Web pentest 
+ 
+ 🤔I'm looking forward to the internship 
+ 
+ 📫 Contact me:
+ - email: nguyentheson1206@gmail.com
+ - facebook: [nts0n.6](https://www.facebook.com/gemini.062112/)
+ - instagram: [zanene.6](https://www.instagram.com/zanene.6/)
 
 <!--
 **nts0n/nts0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-👨‍🎓I'm a student at UIT ( university of information technology ) - VNUHCM
-💻My major is Information Security
-🔭I'm good at RE (reverse engineering) and Web pentest
-🤔I'm looking forward to the internship
-📫 Contact me:
 
 Here are some ideas to get you started:
 
