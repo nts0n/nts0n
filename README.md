@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hi, Welcome to Abandon Field
 
 <!--
 **nts0n/nts0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+👨‍🎓I'm a student at UIT ( university of information technology ) - VNUHCM
+💻My major is Information Security
+🔭I'm good at RE (reverse engineering) and Web pentest
+🤔I'm looking forward to the internship
+📫 Contact me:
 
 Here are some ideas to get you started:
 
