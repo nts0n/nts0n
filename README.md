@@ -1,4 +1,6 @@
-# Hi, Welcome to Abandon Field
+# Hi there👋
+ 🌱I'm nts0n or 3x1l3d_B34st, welcome to the Chaos
+ 
  👨‍🎓I'm a student at UIT ( university of information technology ) - VNUHCM 
  
  💻My major is Information Security 
