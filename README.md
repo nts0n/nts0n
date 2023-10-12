@@ -5,7 +5,7 @@
  
  💻My major is Information Security 
  
- 🔭I'm good at RE (reverse engineering) and Web pentest 
+ 🔭I'm good at RE (main) and Pwn
  
  🤔I'm looking forward to the internship 
  
