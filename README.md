@@ -7,8 +7,6 @@
  
  🔭I'm good at RE (main) and Pwn
  
- 🤔I'm looking forward to the internship 
- 
  📫 Contact me:
  - email: nguyentheson1206@gmail.com
  - facebook: [nts0n.6](https://www.facebook.com/gemini.062112/)
